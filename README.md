@@ -1,4 +1,4 @@
-# COBIT IT-Governance & Management Portfolio - [Dein Name]
+# COBIT IT-Governance & Management Portfolio
 
 Willkommen auf meinem Portfolio-Repository. Dieses Repository demonstriert meine Kompetenz in der Anwendung von **COBIT 2019** zur Implementierung und Prüfung von IT-Governance-Strukturen.
 
@@ -6,7 +6,6 @@ Das Portfolio zeigt, wie ich IT-Prozesse an Geschäftszielen ausrichte, Risiken 
 
 ## Fokus & Kompetenz
 
-* **Rolle:** IT-Governance Auditor / Berater
 * **Schwerpunkt:** Implementierung von Governance-Strukturen, Prozessreifegradanalyse, Risk-Management, Performance Measurement.
 * **Methodik:** Anwendung der COBIT Core Model Komponenten (APO, BAI, DSS, MEA).
 * **Erfahrung:** X Jahre Erfahrung in IT-Governance, Auditierung und Prozessoptimierung.
@@ -21,5 +20,4 @@ Das Portfolio zeigt, wie ich IT-Prozesse an Geschäftszielen ausrichte, Risiken 
 | `03_DSS` | Deliver, Service, Support (Betrieb) |
 | `04_MEA` | Monitor, Evaluate, Assess (Monitoring & Audit) |
 
-## Lizenz
-Dieses Werk ist unter der [MIT License](LICENSE) lizenziert.
+**Disclaimer**: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Bildungs- und Demonstrationszwecken. Es ersetzt keine Rechtsberatung oder formale aufsichtliche Dokumentation.
